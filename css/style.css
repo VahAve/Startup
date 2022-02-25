@@ -699,6 +699,7 @@ h1, h2, h3, h4, h5, h6 {
   .works__item {
     -ms-flex-preferred-size: calc(50% - 1rem);
         flex-basis: calc(50% - 1rem);
+    margin-bottom: 15px;
   }
   .works__btn {
     font-size: 12px;

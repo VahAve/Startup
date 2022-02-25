@@ -548,17 +548,9 @@ h1, h2, h3, h4, h5, h6 {
   background: url(../src/img/prev.svg) no-repeat;
 }
 
-.slick-prev:hover {
-  background: url(../src/img/prev.png) no-repeat;
-}
-
 .slick-next {
   right: 0;
   background: url(../src/img/next.svg) no-repeat;
-}
-
-.slick-next:hover {
-  background: url(../src/img/next.png) no-repeat;
 }
 
 .slick-dots {
